@@ -8,4 +8,4 @@ FTP - File Transfer Protocol - Протокол Передачи Файлов
 IP - Internet Protocol - Протокол Интернета
 DNS - Domain Name System - Система Доменных Имен
 HTTP - Hypertext Transfer Protocol - Протокол Передачи Гипертекста
-DTD - Document Typr Definition - Определение Типа Документа
+DTD - Document Type Definition - Определение Типа Документа
