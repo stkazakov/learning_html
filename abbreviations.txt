@@ -1,7 +1,7 @@
 HTML - Hypertext Markup Language - Язык Разметки Гипертекста
 XML - Extensible Markup Language - Расширяемый Язык Разметки
 XHTML - Extensible Hypertext Markup Language - Расширяемый Язык Разметки Гипертекста
-ASCII - American Standart Code For Information Interchange - Американский Стандартный Код Для Обмена Информацией
+ASCII - American Standard Code For Information Interchange - Американский Стандартный Код Для Обмена Информацией
 CSS - Cascading Style Sheets - Каскадные Таблицы Стилей
 CGI - Common Gateway Interface - Общий Шлюзовый Интерфейс
 FTP - File Transfer Protocol - Протокол Передачи Файлов
@@ -9,3 +9,4 @@ IP - Internet Protocol - Протокол Интернета
 DNS - Domain Name System - Система Доменных Имен
 HTTP - Hypertext Transfer Protocol - Протокол Передачи Гипертекста
 DTD - Document Type Definition - Определение Типа Документа
+URL - Uniform Resource Locator - Универсальный Указатель Ресурса
